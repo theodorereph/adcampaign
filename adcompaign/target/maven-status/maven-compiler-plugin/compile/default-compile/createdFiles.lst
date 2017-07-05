@@ -1,0 +1,7 @@
+com\treph\compaign\bean\CampaignDTO.class
+com\treph\compaign\CampaignService.class
+com\treph\compaign\bean\CampaignResponse.class
+com\treph\compaign\CampaignController.class
+com\treph\compaign\CampaignValidator.class
+com\treph\compaign\AdCompaignServer.class
+com\treph\compaign\bean\Campaign.class

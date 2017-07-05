@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.treph.compaign.CampaignServiceTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.994 sec - in com.treph.compaign.CampaignServiceTest
